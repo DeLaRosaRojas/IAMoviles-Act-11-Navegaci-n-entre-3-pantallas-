@@ -19,7 +19,7 @@ class PaginaDos extends StatelessWidget {
             ClipRRect(
               borderRadius: BorderRadius.circular(10),
               child: Image.network(
-                'https://picsum.photos/300/200',
+                'https://raw.githubusercontent.com/DeLaRosaRojas/IAMoviles-Act-11-Navegaci-n-entre-3-pantallas-/refs/heads/master/imagen.png',
                 height: 200,
               ),
             ),
